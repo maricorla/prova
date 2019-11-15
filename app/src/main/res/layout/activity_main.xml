@@ -6,10 +6,7 @@
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
         android:text="@string/name_text"
         android:textAlignment="center"
-        android:textColor="@color/colorAccent"
-        android:textSize="@dimen/text_size"
-        android:textStyle="bold" />
+        style="@style/NameStyle" />
 </LinearLayout>
