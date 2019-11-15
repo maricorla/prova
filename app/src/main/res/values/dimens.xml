@@ -3,4 +3,5 @@
     <dimen name="text_size">30sp</dimen>
     <dimen name="small_padding">10dp</dimen>
     <dimen name="layout_margin">16dp</dimen>
+    <dimen name="margin_star">16dp</dimen>
 </resources>
