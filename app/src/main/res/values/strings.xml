@@ -2,4 +2,32 @@
     <string name="app_name">MyProvaApp</string>
     <string name="name_text">Gulevich Marina</string>
     <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">
+       \n\nГде-то глубоко под землей протянулись сотни километров тоннелей.
+        \n\nВ пыльных забоях ползают на четвереньках шахтеры, проходческие
+        \n\nкомбайны крошат пласты горной породы. Добываемая руда называется
+        \n\nсильвинит — это сырье для получения хлористого калия,
+        \n\nкоторый применяется как калийное удобрение.
+        \n\nС глубины рудников
+        \n\nсильвинит поднимается на поверхност
+        \n\nь и транспортируется на специальные
+        \n\nфабрики для переработки и обогащения.
+        \n\nТри четверти массы руды составляют отходы производства.
+        \n\nГлина, каменная соль и прочие примеси за ненадобностью сбрасываются
+        \n\nв солеотвалы. Так под открытым небом и растут знаменитые
+        \n\nсолигорские горы, высота которых достигает уже 120 метров.
+        \n\nMaterial design is a comprehensive guide for visual,
+        \n\nmotion, and interaction design across platforms and devices.
+        \n\nTo use material design in your Android apps, follow the guidelines
+        \n\ndefined in the material design specification and use the new components
+        \n\nand styles available in the material design support library.
+        \n\nThis page provides an overview of the patterns and APIs you should use.
+        \n\nAndroid provides the following features to help you build material design apps:
+
+        \n\nA material design app theme to style all your UI widgets
+        \n\nWidgets for complex views such as lists and cards
+        \n\nNew APIs for custom shadows and animations
+    </string>
+
 </resources>
