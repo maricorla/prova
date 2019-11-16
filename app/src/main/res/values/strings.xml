@@ -29,5 +29,7 @@
         \n\nWidgets for complex views such as lists and cards
         \n\nNew APIs for custom shadows and animations
     </string>
+    <string name="what_is_your_nickname">What is your Nickname</string>
+    <string name="done">Done</string>
 
 </resources>
